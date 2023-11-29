@@ -2,6 +2,7 @@
 My Restaurant Food Application
 
 ADMIN SIDE
+
 ! Login Page
 - As an Admin you will have to register first
   ![Screenshot (283)](https://github.com/Ronaldosp/MyRestaurant/assets/141498022/61e47020-86c9-4e50-9af7-28445c666c84)
