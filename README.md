@@ -39,7 +39,7 @@ ADMIN SIDE
     ![Screenshot (282)](https://github.com/Ronaldosp/MyRestaurant/assets/141498022/dc226ea4-fc39-4053-8c48-b5d73dfabc55)
     ![Screenshot (281)](https://github.com/Ronaldosp/MyRestaurant/assets/141498022/49d62057-9fde-43d9-896d-28d34a5fcdff)
 
-THANK YOU
+Thank You
 
 
 
